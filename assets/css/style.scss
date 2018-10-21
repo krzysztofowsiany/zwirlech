@@ -1,0 +1,144 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header {
+    height: 220px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+}
+
+footer{
+    text-align: center
+}
+
+#main-content h1,#main-content h2,#main-content h3,#main-content h4, #main-content h5, #main-content h6 {
+    font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+}
+
+#main-content {
+    text-align: justify;
+    text-justify: inter-word;
+    font-size: 16pt;
+}
+
+.highlight-post {
+    background-color:rgba(135, 227, 250, 0.144);
+}
+
+code {
+    font-size: 14pt;
+}
+
+a.button { 
+    font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+}
+
+.post-date {
+    float: right;
+}
+
+
+div.post_image {
+    float: left;
+    margin-right: 10px;
+}
+
+div.post_image img {
+    width: 200px;
+    height: auto;    
+}
+
+div.post_preview {
+    overflow:auto;
+    display:block;
+    min-height:100%;    
+}
+
+
+#main-content h1:before,
+#main-content h2:before,
+#main-content h3:before,
+#main-content h4:before,
+#main-content h5:before,
+#main-content h6:before
+{
+    content: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+#main-content h1 {
+    font-size: 28pt;
+    font-weight: bold;
+    text-align: left;
+}
+
+#main-content h2{
+    font-size: 22pt;
+    text-align: left;
+}
+
+#main-content h3{
+    font-size: 18pt;
+    text-align: left;
+}
+
+#main-content h4{
+    font-size: 16pt;
+    text-align: left;
+}
+
+
+div.more_url {
+    display:block;
+    text-align: right;
+}
+
+ol {
+    list-style-position: inside;
+    list-style: default; 
+    list-style-type: decimal;
+    padding: 0px;
+}
+
+div.blog_rss {
+    display:block;
+    margin: 0 auto;
+}
+
+//first image
+.container
+{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.inner {
+    width: 1280px;
+}
+
+aside#sidebar {
+    width: 350px;
+}
+
+#main-content {
+    width: 900px;
+}
+
+.centered {
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 7vmin;
+    font-weight: 300;
+    background-color: rgba(0, 0, 0, 0.35);
+    color: white;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+
+
+@import 'nav';
