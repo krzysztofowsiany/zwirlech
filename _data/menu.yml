@@ -1,3 +1,40 @@
 groups:
-  - title: Strona główna
-    url: / 
+
+
+  - title: Nasza oferta
+    url: nasza-oferta
+    urls:
+      - page: Sprzedaż
+        url: /sprzedaz
+      - page: Usługi sprzętem budowlanym
+        url: /uslugi-sprzeetem-budowlanym
+      - page: Usługi inne
+        url: /uslugi-inne   
+
+  - title: Regiony
+    url: /regiony
+    urls:
+      - page: Leszno
+        url: /leszno
+      - page: Gostyń
+        url: /gostyn
+      - page: Kościan
+        url: /koscian
+      - page: Głogów
+        url: /glogow
+      - page: Wschowa
+        url: /wschowa
+      - page: Wolsztyn
+        url: /wolsztyn
+      - page: Rawicz
+        url: /rawicz
+
+  - title: O firmie
+    url: o-firmie
+
+  - title: Galeria
+    url: galeria
+    
+  - title: Kontakt
+    url: kontakt
+    urls:

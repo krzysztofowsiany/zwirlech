@@ -33,12 +33,12 @@ li.nav a, .dropbtn {
 
 li.nav a:hover, .dropdown:hover .dropbtn {
     background-color: $link-hover-background-color;
-    color: $link-hover-color;
+    color: $link-hover-color;text-decoration: none;
 }
 
 li.nav .dropdown:hover .dropbtn {
     background-color: $link-dropdown-hover-background-color;
-    color: $link-dropdown-hover-color;
+    color: $link-dropdown-hover-color;text-decoration: none;
 }
 
 li.dropdown {
@@ -62,7 +62,7 @@ li.dropdown {
     text-align: left;
 }
 
-.dropdown-content a:hover {background-color: $link-dropdown-hover-background-color}
+.dropdown-content a:hover {background-color: $link-dropdown-hover-background-color;}
 
 .dropdown:hover .dropdown-content {
     display: block;
