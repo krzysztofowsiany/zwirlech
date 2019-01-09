@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: ŻwirLech
 email: biuro@zwirlech.pl
-description: Strona w budowie
+description: Żwirownia Włoszakowice i Jezierzyce Kościelne ŻwirLech.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://zwirlech.pl" 
 twitter_username: jekyllrb
@@ -26,6 +26,9 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
+include: ['_pages']
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
