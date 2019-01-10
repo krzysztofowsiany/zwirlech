@@ -7,7 +7,7 @@ groups:
       - page: Sprzedaż
         url: /sprzedaz
       - page: Usługi sprzętem budowlanym
-        url: /uslugi-sprzeetem-budowlanym
+        url: /uslugi-sprzetem-budowlanym
       - page: Usługi inne
         url: /uslugi-inne   
 
