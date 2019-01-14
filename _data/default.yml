@@ -1,0 +1,85 @@
+picture_path: default
+pictures:
+- filename: SAM_2233
+  original: SAM_2233-1024x768.jpg
+  sizes:
+  - SAM_2233-1024x768.jpg
+  - SAM_2233-300x225.jpg
+  thumbnail: SAM_2233-300x225.jpg
+
+- filename: SAM_2238
+  original: SAM_2238-1024x768.jpg
+  sizes:
+  - SAM_2238-1024x768.jpg
+  - SAM_2238-300x225.jpg
+  thumbnail: SAM_2238-300x225.jpg
+
+- filename: SAM_2392
+  original: SAM_2392-1024x768.jpg
+  sizes:
+  - SAM_2392-1024x768.jpg
+  - SAM_2392-300x225.jpg
+  thumbnail: SAM_2392-300x225.jpg
+
+- filename: SAM_2776
+  original: SAM_2776-1024x768.jpg
+  sizes:
+  - SAM_2776-1024x768.jpg
+  - SAM_2776-300x225.jpg
+  thumbnail: SAM_2776-300x225.jpg
+  
+- filename: SAM_2777
+  original: SAM_2777-1024x768.jpg
+  sizes:
+  - SAM_2777-1024x768.jpg
+  - SAM_2777-300x225.jpg
+  thumbnail: SAM_2777-300x225.jpg
+  
+- filename: SAM_2780
+  original: SAM_2780-1024x768.jpg
+  sizes:
+  - SAM_2780-1024x768.jpg
+  - SAM_2780-300x225.jpg
+  thumbnail: SAM_2780-300x225.jpg
+  
+- filename: SAM_2781
+  original: SAM_2781-1024x768.jpg
+  sizes:
+  - SAM_2781-1024x768.jpg
+  - SAM_2781-300x225.jpg
+  thumbnail: SAM_2781-300x225.jpg
+  
+- filename: SAM_2782
+  original: SAM_2782-1024x768.jpg
+  sizes:
+  - SAM_2782-1024x768.jpg
+  - SAM_2782-300x225.jpg
+  thumbnail: SAM_2782-300x225.jpg
+  
+- filename: SAM_2869
+  original: SAM_2869-1024x768.jpg
+  sizes:
+  - SAM_2869-1024x768.jpg
+  - SAM_2869-300x225.jpg
+  thumbnail: SAM_2392-300x225.jpg  
+
+- filename: SAM_2989
+  original: SAM_2989-1024x768.jpg
+  sizes:
+  - SAM_2989-1024x768.jpg
+  - SAM_2989-300x225.jpg
+  thumbnail: SAM_2989-300x225.jpg  
+  
+- filename: SAM_2999
+  original: SAM_2999-1024x768.jpg
+  sizes:
+  - SAM_2999-1024x768.jpg
+  - SAM_2999-300x225.jpg
+  thumbnail: SAM_2999-300x225.jpg  
+  
+- filename: SAM_3000
+  original: SAM_3000-1024x768.jpg
+  sizes:
+  - SAM_3000-1024x768.jpg
+  - SAM_3000-300x225.jpg
+  thumbnail: SAM_3000-300x225.jpg  
