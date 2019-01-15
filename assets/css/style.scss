@@ -122,10 +122,6 @@ aside#sidebar {
     width: 350px;
 }
 
-#main-content {
-    width: 900px;
-}
-
 .centered {
     width: 100%;
     position: absolute;
@@ -140,6 +136,7 @@ aside#sidebar {
 }
 
 @import 'colors';
+@import 'google-maps';
 
 @import 'body';
 @import 'header';

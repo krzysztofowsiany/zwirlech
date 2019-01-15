@@ -16,6 +16,7 @@ Jeśli twoja miejscowość znajduje się poza domyślnym obszarem naszej działa
 * Gostyń, 
 * Kościan, 
 * Wolsztyn, 
+* Wschowa,
 * Włoszakowice.
 
 To nic nie stoi na przeszkodzie aby dość do porozumienia i podjąć współpracę.
