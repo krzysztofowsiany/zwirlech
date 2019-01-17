@@ -83,3 +83,80 @@ pictures:
   - SAM_3000-1024x768.jpg
   - SAM_3000-300x225.jpg
   thumbnail: SAM_3000-300x225.jpg  
+
+- filename: SAM_0173
+  original: SAM_0173-800x600.jpg
+  sizes:
+  - SAM_0173-800x600.jpg
+  - SAM_0173-300x225.jpg
+  thumbnail: SAM_0173-300x225.jpg  
+
+- filename: SAM_0644
+  original: SAM_0644-800x600.jpg
+  sizes:
+  - SAM_0644-800x600.jpg
+  - SAM_0644-300x225.jpg
+  thumbnail: SAM_0644-300x225.jpg  
+
+- filename: SAM_1430
+  original: SAM_1430-1024x768.jpg
+  sizes:
+  - SAM_1430-1024x768.jpg
+  - SAM_1430-300x225.jpg
+  thumbnail: SAM_1430-300x225.jpg
+
+- filename: SAM_1443
+  original: SAM_1443-800x600.jpg
+  sizes:
+  - SAM_1443-800x600.jpg
+  - SAM_1443-300x225.jpg
+  thumbnail: SAM_1443-300x225.jpg
+
+- filename: SAM_1446
+  original: SAM_1446-800x600.jpg
+  sizes:
+  - SAM_1446-800x600.jpg
+  - SAM_1446-300x225.jpg
+  thumbnail: SAM_1446-300x225.jpg
+
+- filename: SAM_1457
+  original: SAM_1457-800x600.jpg
+  sizes:
+  - SAM_1457-800x600.jpg
+  - SAM_1457-300x225.jpg
+  thumbnail: SAM_1457-300x225.jpg  
+
+- filename: SAM_1461
+  original: SAM_1461-800x600.jpg
+  sizes:
+  - SAM_1461-800x600.jpg
+  - SAM_1461-300x225.jpg
+  thumbnail: SAM_1461-300x225.jpg  
+
+- filename: SAM_2867
+  original: SAM_2867-1024x768.jpg
+  sizes:
+  - SAM_2867-1024x768.jpg
+  - SAM_2867-300x225.jpg
+  thumbnail: SAM_2867-300x225.jpg  
+
+- filename: SAM_06461
+  original: SAM_06461-800x600.jpg
+  sizes:
+  - SAM_06461-800x600.jpg
+  - SAM_06461-300x225.jpg
+  thumbnail: SAM_06461-300x225.jpg  
+  
+- filename: SAM_1764
+  original: SAM_1764-1024x768.jpg
+  sizes:
+  - SAM_1764-1024x768.jpg
+  - SAM_1764-300x225.jpg
+  thumbnail: SAM_1764-300x225.jpg  
+
+- filename: SAM_1385
+  original: SAM_1385-800x600.jpg
+  sizes:
+  - SAM_1385-800x600.jpg
+  - SAM_1385-300x225.jpg
+  thumbnail: SAM_1385-300x225.jpg  

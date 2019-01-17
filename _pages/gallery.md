@@ -7,4 +7,4 @@ permalink: galeria
 support: [jquery, gallery]
 ---
 
-{% include gallery-layout.html gallery=site.data.default id_number=2 %}
+{% include gallery-layout.html gallery=site.data.default %}
