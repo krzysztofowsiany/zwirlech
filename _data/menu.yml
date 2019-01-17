@@ -2,7 +2,7 @@ groups:
 
 
   - title: Nasza oferta
-    url: nasza-oferta
+    url: /
     urls:
       - page: Sprzedaż
         url: /sprzedaz

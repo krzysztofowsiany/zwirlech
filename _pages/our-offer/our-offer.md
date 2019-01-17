@@ -3,7 +3,7 @@ title: Nasza oferta
 date: 2018-12-01
 author: Krzysztof Owsiany
 layout: page
-permalink: nasza-oferta
+permalink: /
 ---
 
 NOWO POWSTAŁA ŻWIROWNIA W JEZIERZYCACH KOŚCIELNYCH (10 km. od Leszna)Naszą ofertę kierujemy do przedsiębiorstw i innych podmiotów oraz do odbiorców indywidualnych.
